@@ -12,20 +12,18 @@ let icons = document.querySelector('.icons');
 
 setTimeout(() => {
     small.style.visibility = 'visible';
-}, 2000);
+}, 2100);
 
 setTimeout(() => {
     hr.style.visibility = 'visible';
-}, 3000);
+}, 3100);
 
 setTimeout(() => {
     p.style.visibility = 'visible';
-}, 4000);
+}, 4100);
 
-setTimeout(() => {
-    button.style.visibility = 'visible';
-}, 5000);
 
 setTimeout(() => {
     icons.style.visibility = 'visible';
-}, 5000);
+    button.style.visibility = 'visible';
+}, 5100);

@@ -35,7 +35,7 @@ small {
     display: block;
     margin-bottom: 1.5rem;
     font-family: 'Lora', serif;
-    animation: fromleft 1s ease 1.9s;
+    animation: fromleft 1s ease 2s;
     visibility: hidden;
 }
 
@@ -45,7 +45,7 @@ p {
     font-family: 'Lora', serif;
     display: inline-block;
     width: 30rem;
-    animation: fromleft 1s ease 3.9s;
+    animation: fromleft 1s ease 4s;
     visibility: hidden;
 }
 
@@ -58,7 +58,7 @@ p {
     display: inline-block;
     transition: all 0.2s;
     font-family: 'Lora', serif;
-    animation: forbutton 0.5s ease 4.9s;
+    animation: forbutton 0.5s ease 5s;
     visibility: hidden;
 }
 
@@ -78,7 +78,7 @@ hr {
 
 .icons {
     margin-left: 1.4rem;
-    animation: fromright 1s ease 4.9s;
+    animation: fromright 1s ease 5s;
     visibility: hidden;
 }
 
