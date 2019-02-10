@@ -2,6 +2,8 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    will-change: transform;
+    backface-visibility: hidden;
 }
 
 .container {
